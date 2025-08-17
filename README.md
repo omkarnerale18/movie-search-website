@@ -1,7 +1,8 @@
 # 🎬 CinemaVerse - Movie Search Website
 
 CinemaVerse is a movie search web application built with **HTML, CSS, and JavaScript**.  
-It uses a movie API to fetch real-time movie and TV series details, including posters, release year, ratings, genres, and descriptions.
+It uses the **FakeStore API** to fetch and display details, including posters, release year, ratings, genres, and descriptions.
+
 
 ---
 
@@ -16,7 +17,7 @@ It uses a movie API to fetch real-time movie and TV series details, including po
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
-- **API:** [Movie/TV Series API] (Replace with your API provider name, e.g., TMDB API)  
+- **API:** [FakeStore API](https://fakestoreapi.com/)   
 
 ---
 
