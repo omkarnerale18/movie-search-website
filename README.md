@@ -26,7 +26,7 @@ It uses a movie API to fetch real-time movie and TV series details, including po
 ![Homepage Screenshot](/Screenshots/Moviesearchpage.jpg)
 
 ### Search Results
-![Search Results Screenshot](Moviesearchpage2.jpg)
+![Search Results Screenshot](/Screenshots/Moviesearchpage2.jpg)
 
 ---
 
