@@ -23,7 +23,7 @@ It uses a movie API to fetch real-time movie and TV series details, including po
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](Moviesearchpage.jpg)
+![Homepage Screenshot](/Screenshots/Moviesearchpage.jpg)
 
 ### Search Results
 ![Search Results Screenshot](Moviesearchpage2.jpg)
